@@ -4,6 +4,12 @@ A collaborative drawing board web application, based primarily on native capabil
 
 ## Getting Started
 
+### Installing Modules
+In order to install the modules needed to use the app, enter the command:
+```
+>>> npm install
+```
+
 ### Executing
 
 The application can be executed using the command:
